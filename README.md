@@ -5,11 +5,12 @@
 </a><br>
 - 📫 Visit to my kaggle projects: <br/>
 <a href="https://www.kaggle.com/kayumkhan25/code">
-    <img src="https://img.shields.io/badge/kaggle-white?style=for-the-badge&logo=kaggle&logoColor=indigo" alt="kaggle"/>
+    <img src="https://img.shields.io/badge/kaggle-indigo?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle"/>
 </a>
 
 <h3>Languages and Tools:</h3><br>
-[![My Skills](https://skillicons.dev/icons?i=,html,css,javascript,bootstrap,mysql,c,java,python,wordpress,github,git&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,mysql,c,java,python,wordpress,github,git&perline=5)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KayumKhan25&theme=dark)
 
