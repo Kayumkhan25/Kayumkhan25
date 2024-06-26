@@ -10,9 +10,9 @@
 
 <h3>Languages and Tools:</h3><br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,mysql,c,java,python,wordpress,github,git&perline=5)](https://skillicons.dev)
-<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,mysql,c,java,python,wordpress,github,git&perline=5&theme=dark)](https://skillicons.dev)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KayumKhan25&theme=dark)
-<br>
+
 ![Kayum Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KayumKhan25&show_icons=true&theme=dark)
 
