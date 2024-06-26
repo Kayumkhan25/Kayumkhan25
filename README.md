@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 <a href="https://www.kaggle.com/kayumkhan25/code">
-    <img src="https://img.shields.io/badge/kaggle-black?style=for-the-badge&logo=kaggle&logoColor=blue" alt="kaggle"/>
+    <img src="https://img.shields.io/badge/kaggle-white?style=for-the-badge&logo=kaggle&logoColor=blue" alt="kaggle"/>
 </a>
 
 ### Languages and Tools:
