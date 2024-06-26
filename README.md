@@ -3,7 +3,7 @@
 - ### Connect with me:
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=,html5,css3,javascript,bootstrap,mysqL,c,java,python,wordpressgitHub,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,html,css,javascript,bootstrap,mysql,c,java,python,wordpress,gitHub,git)](https://skillicons.dev)
 
 (https://github-readme-stats.vercel.app/api?username=KayumKhan25_icons=true&theme=dark)
 
