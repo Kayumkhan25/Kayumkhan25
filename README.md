@@ -10,7 +10,7 @@
 
 <h3>Languages and Tools:</h3><br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,mysql,c,java,python,wordpress,github,git&perline=5&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,expressjs,java,python,bootstrap,mysql,c,wordpress,github,git&perline=5&theme=dark)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KayumKhan25&theme=dark)
 
