@@ -1,4 +1,5 @@
 <h1>Hi 👋, I'm Kayum Khan</h1>
+💻 Passionate about React, Node.js, MongoDB, and building impactful web solutions. <br/>
 - 📫 How to reach me: <br />
 <a href="https://www.linkedin.com/in/kayum-khan2501/">
     <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
